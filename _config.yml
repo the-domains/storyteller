@@ -1,28 +1,40 @@
-name: Storyteller
 favicon: null
-layout_spectrum: 0.21060863276943564
-typography_spectrum: 0.2203032176475972
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Storyteller
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4720746
+  brandStrength: 0.9071588956285268
+  lightness: 0.5609319
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.9071588956285268
-  lightness: 0.9799365904182196
-  saturation: 0.47207458270713687
-  rhythmicContrast: 0.5322621101513505
-purpose: []
+  rhythmicContrast: 0.5322621
+typography_spectrum: 1
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
