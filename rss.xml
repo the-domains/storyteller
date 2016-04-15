@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Our situations are unique, our lessons are universal.]]></title>
         <description><![CDATA[Our situations are unique, our lessons are universal.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/storyteller/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 19:09:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 02:31:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/storyteller/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Animated Gif by bizreno]]></title>
-            <description><![CDATA[<article><h1>Animated Gif by bizreno</h1><p>bizreno has shared an animated gif from Photobucket. Click to play</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8182ea551fa680f50c9ccbddda86ad56b3101fc0.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Animated Gif by bizreno</h1><p>bizreno has shared an animated gif from Photobucket. Click to play</p></article>]]></description>
             <link>http://s741.photobucket.com/user/bizreno/media/Finished-2_zps2638a77b.gif.html?sort=3&amp;o=0</link>
             <guid isPermaLink="false">838d6000-0f6b-4823-8084-1c999ac6d51b</guid>
-            <pubDate>Thu, 14 Apr 2016 19:09:19 GMT</pubDate>
+            <pubDate>Fri, 15 Apr 2016 02:31:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
