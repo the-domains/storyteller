@@ -6,10 +6,12 @@ isBasedOnUrl: 'http://s741.photobucket.com/user/bizreno/media/Finished-2_zps2638
 inLanguage: null
 starred: false
 keywords: []
-description: A kiss from my wife feels differently from any other kiss.
-datePublished: '2016-04-16T19:44:08.115Z'
-dateModified: '2016-04-16T19:42:32.549Z'
-author: []
+description: A kiss from my wife feels differently than any other kiss.
+datePublished: '2016-04-22T02:54:59.976Z'
+dateModified: '2016-04-22T02:54:30.419Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
 title: Sparkle
