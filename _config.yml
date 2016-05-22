@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.5340502
+  saturation: 0.6505376
   brandStrength: 0.8125
-  lightness: 0.7240143
+  lightness: 0.8458781
   brandColors:
     - '#fffffd'
     - '#401409'
     - '#ffaf74'
     - '#726962'
     - '#a49791'
-  rhythmicContrast: 0.5770609
+  rhythmicContrast: 0.7562724
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Storyteller
 favicon: null
+name: Storyteller
 opengraph:
   image: null
   type: null
