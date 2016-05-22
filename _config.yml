@@ -15,7 +15,7 @@ collections:
 color:
   saturation: 0.3387097
   brandStrength: 0.5125448
-  lightness: 0.8458781
+  lightness: 0.9516129
   brandColors:
     - '#FFFFFD'
     - '#401409'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Storyteller
+favicon: null
 opengraph:
   image: null
   type: null
