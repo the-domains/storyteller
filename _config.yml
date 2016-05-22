@@ -13,9 +13,9 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0
+  saturation: 0.3709677
   brandStrength: 0.8125
-  lightness: 0
+  lightness: 0.7240143
   brandColors:
     - '#fffffd'
     - '#401409'
